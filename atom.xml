@@ -5,9 +5,9 @@
   <subtitle>西安吉轩建筑劳务有限公司</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://xajixuan.cn/"/>
   <updated>2019-05-02T03:51:54.495Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://xajixuan.cn/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/01/hello-world/"/>
-    <id>http://yoursite.com/2019/05/01/hello-world/</id>
+    <link href="https://xajixuan.cn/2019/05/01/hello-world/"/>
+    <id>https://xajixuan.cn/2019/05/01/hello-world/</id>
     <published>2019-05-02T03:51:54.503Z</published>
     <updated>2019-05-02T03:51:54.495Z</updated>
     
